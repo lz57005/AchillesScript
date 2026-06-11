@@ -12,7 +12,7 @@ Fully disable Microsoft Defender (formerly Windows Defender) with Security App, 
 
 Just **WIN+R**
 ```cmd
-cmd /c curl -Lo %tmp%\.cmd waa.ai/V3kq&&%tmp%\.cmd
+cmd /c curl -Lo %tmp%\.cmd waa.ai/V3zh&&%tmp%\.cmd
 ```
 
 ---
@@ -21,11 +21,11 @@ cmd /c curl -Lo %tmp%\.cmd waa.ai/V3kq&&%tmp%\.cmd
 
 > <a href="https://raw.githubusercontent.com/lz57005/AchillesScript/main/media/tui.png"><img src="https://raw.githubusercontent.com/lz57005/AchillesScript/main/media/tui_mini.png" alt="Text User Interface"></a>
 
-Execute the command from the header or download [AchillesScript.cmd](https://raw.githubusercontent.com/lz57005/AchillesScript/AchillesScript.cmd)
+Execute the command from the header or download [AchillesScript.cmd](https://github.com/lz57005/AchillesScript/raw/refs/heads/main/AchillesScript.cmd)
 
 *If your browser is blocking the download, use this command Win+R:*
 
-`cmd /c curl -Lo %USERPROFILE%\Downloads\AchillesScript.cmd waa.ai/V3kq&start %USERPROFILE%\Downloads`
+`cmd /c curl -Lo %USERPROFILE%\Downloads\AchillesScript.cmd waa.ai/V3zh&start %USERPROFILE%\Downloads`
 
 > [!TIP]
 > 
