@@ -110,6 +110,9 @@ Uncoment in script or set in cmd before launch:
 |Disable reboot after applying the script not all parameters are fully applied without reboot, works only if undefined UseReboot2Safe)|`set NoReboot=1`|
 |Do not reset the platform version (rollback to Defender version installed with Windows) while disabling|`set NotResetPlatform=1`|
 |View deprecated [4] preset with blocking launch in interface|`set ViewBlock=1`|
+|Try to bypass the Tamper Protection (ignores the enabled state) without rebooting into Safe Mode.||
+|It works unstable (does not work in Home editions), full disabling usually on the second reboot,|| 
+|for test or broken systems where it is not possible to disable the Tamper Protection or reboot into Safe Mode, or just for fun|`set TryBypassTamper=1`|
 |WARNING: DisableCIPolicies or DisablePkcsPolicies can broke store app installation||
 |Future windows updates may add new non-disableable policies that could break boot||
 |Disable Code Integrity Policies (*.cip)|`set DisableCIPolicies=1`|
