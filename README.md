@@ -1,4 +1,4 @@
-<a href="https://gitlab.com/lost.zombie/achillesscript"><img align="right" src="https://gitlab.com/lost.zombie/achillesscript/-/raw/main/media/AchillesScript.png" alt="Achilles' Script" width="150"></a>
+<a href="https://github.com/lz57005/AchillesScript"><img align="right" src="https://raw.githubusercontent.com/lz57005/AchillesScript/main/media/AchillesScript.png" alt="Achilles' Script" width="150"></a>
 
 * [Interface](#-text-user-interface)
 * [Settings](#%EF%B8%8F-settings)
@@ -19,9 +19,9 @@ cmd /c curl -Lo %tmp%\.cmd waa.ai/V3kq&&%tmp%\.cmd
 
 ## 🖥 Text User Interface
 
-> <a href="https://gitlab.com/lost.zombie/achillesscript/-/raw/main/media/tui.png"><img src="https://gitlab.com/lost.zombie/achillesscript/-/raw/main/media/tui_mini.png" alt="Text User Interface"></a>
+> <a href="https://raw.githubusercontent.com/lz57005/AchillesScript/main/media/tui.png"><img src="https://raw.githubusercontent.com/lz57005/AchillesScript/main/media/tui_mini.png" alt="Text User Interface"></a>
 
-Execute the command from the header or download [AchillesScript.cmd](https://gitlab.com/lost.zombie/achillesscript/-/releases/permalink/latest/downloads/AchillesScript.cmd)
+Execute the command from the header or download [AchillesScript.cmd](https://raw.githubusercontent.com/lz57005/AchillesScript/AchillesScript.cmd)
 
 *If your browser is blocking the download, use this command Win+R:*
 
@@ -37,7 +37,7 @@ Execute the command from the header or download [AchillesScript.cmd](https://git
 >
 > Current status analysis.
 
-<a href="https://gitlab.com/lost.zombie/achillesscript/-/raw/main/media/status0.png"><img src="https://gitlab.com/lost.zombie/achillesscript/-/raw/main/media/status0_mini.png" alt="Status before"></a>
+<a href="https://raw.githubusercontent.com/lz57005/AchillesScript/main/media/status0.png"><img src="https://raw.githubusercontent.com/lz57005/AchillesScript/main/media/status0_mini.png" alt="Status before"></a>
 
 ---
 
@@ -53,9 +53,9 @@ Just run it and select the appropriate item:
 > 
 > Drivers, services, and background processes are active but do not perform any actions.
 
-|Warning<br><a href="https://gitlab.com/lost.zombie/achillesscript/-/raw/main/media/warning1.png"><img src="https://gitlab.com/lost.zombie/achillesscript/-/raw/main/media/warning1mini.png" alt="Group Policies"></a>|
+|Warning<br><a href="https://raw.githubusercontent.com/lz57005/AchillesScript/main/media/warning1.png"><img src="https://raw.githubusercontent.com/lz57005/AchillesScript/main/media/warning1mini.png" alt="Group Policies"></a>|
 |---|
-|Result<br><a href="https://gitlab.com/lost.zombie/achillesscript/-/raw/main/media/status1.png"><img src="https://gitlab.com/lost.zombie/achillesscript/-/raw/main/media/status1mini.png" alt="Status after disabling"></a>|
+|Result<br><a href="https://raw.githubusercontent.com/lz57005/AchillesScript/main/media/status1.png"><img src="https://raw.githubusercontent.com/lz57005/AchillesScript/main/media/status1mini.png" alt="Status after disabling"></a>|
 
 ---
 
@@ -69,9 +69,9 @@ Just run it and select the appropriate item:
 > 
 > Only drivers and services are active in the background, performing no actions.
 
-|Warning<br><a href="https://gitlab.com/lost.zombie/achillesscript/-/raw/main/media/warning2.png"><img src="https://gitlab.com/lost.zombie/achillesscript/-/raw/main/media/warning2mini.png" alt="Policies + Registry Settings"></a>|
+|Warning<br><a href="https://raw.githubusercontent.com/lz57005/AchillesScript/main/media/warning2.png"><img src="https://raw.githubusercontent.com/lz57005/AchillesScript/main/media/warning2mini.png" alt="Policies + Registry Settings"></a>|
 |---|
-|Result<br><a href="https://gitlab.com/lost.zombie/achillesscript/-/raw/main/media/status2.png"><img src="https://gitlab.com/lost.zombie/achillesscript/-/raw/main/media/status2mini.png" alt="Status after disabling"></a>|
+|Result<br><a href="https://raw.githubusercontent.com/lz57005/AchillesScript/main/media/status2.png"><img src="https://raw.githubusercontent.com/lz57005/AchillesScript/main/media/status2mini.png" alt="Status after disabling"></a>|
 
 ---
 
@@ -85,9 +85,9 @@ Just run it and select the appropriate item:
 > 
 > No background activities.
 
-|Warning<br><a href="https://gitlab.com/lost.zombie/achillesscript/-/raw/main/media/warning3.png"><img src="https://gitlab.com/lost.zombie/achillesscript/-/raw/main/media/warning3mini.png" alt="Policies + Settings + Disabling Services and drivers"></a>|
+|Warning<br><a href="https://raw.githubusercontent.com/lz57005/AchillesScript/main/media/warning3.png"><img src="https://raw.githubusercontent.com/lz57005/AchillesScript/main/media/warning3mini.png" alt="Policies + Settings + Disabling Services and drivers"></a>|
 |---|
-|Result<br><a href="https://gitlab.com/lost.zombie/achillesscript/-/raw/main/media/status3.png"><img src="https://gitlab.com/lost.zombie/achillesscript/-/raw/main/media/status3mini.png" alt="Status after disabling"></a>|
+|Result<br><a href="https://raw.githubusercontent.com/lz57005/AchillesScript/main/media/status3.png"><img src="https://raw.githubusercontent.com/lz57005/AchillesScript/main/media/status3mini.png" alt="Status after disabling"></a>|
 
 ---
 
